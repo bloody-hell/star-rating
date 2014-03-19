@@ -1,0 +1,7 @@
+{
+    "name": "fyneworks/jquery-star-rating",
+    "description": "Star rating widget",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "type":"package"
+}
